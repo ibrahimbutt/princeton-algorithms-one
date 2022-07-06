@@ -1,1 +1,1 @@
-# princeton-algorithms-one
+# Princeton: Algorithms, Part 1
